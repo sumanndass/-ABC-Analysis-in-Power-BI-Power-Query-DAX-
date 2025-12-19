@@ -1,0 +1,21 @@
+Order ID,Supplier Name,Product Code,Delivery Delay (days),Order Date,Region,Remarks
+1001, SUP-1, PRD_001,114, 12-01-2024, North, late delivery
+1002,Sup 2,PRD_002,27,13-01-2024,South,Delayed
+1003,SUP8,PRD-003,22 days,14-01-2024,East,NA
+1004,SUP 9 ,PRD004,21,15-01-2024,West,delay due to transport
+1005,SUP7,PRD_005,18,16-01-2024,North,
+1006,sup-0,PRD006,12,17-01-2024,South,ok
+1007,SUP 2,PRD007,12, 18-01-24,East,minor delay
+1008,SUP-6,PRD008,9,19-01-2024,West,NA
+1009,SUP3, PRD009,6,20-01-2024,North, on time
+1010,SUP 3,PRD010,5 days, 21/01/24,South,ok
+1011,SUP-1,PRD_001, ,22-01-2024,North,missing delay
+1012,SUP-2,PRD002,-3, 23/01/2024,South,data error
+1013,SUP8,PRD005,22,24-01-2024,East,duplicate
+1014,SUP 9,PRD008,21,25-01-2024,West,
+1015,SUP-7,PRD009,18,26-01-2024,North,Delayed
+1016,SUP0,PRD006,zero,27-01-2024,South,text instead of number
+1017,SUP-4,PRD-002,12,28-01-2024,East,ok
+1018,SUP6,PRD001,9,29-01-2024,West,NA
+1019,SUP 2, PRD007,6 day,30-01-2024,North,ok
+1020,SUP-5,PRD002,5,31-01-2024, South,
